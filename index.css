@@ -21,7 +21,7 @@ header img {
     width: 200px;
     height: 200px;
     border-radius: 15%;
-    border: 3px solid orange;
+    border: 3px solid blue;
 }
 
 h4 {
@@ -34,7 +34,7 @@ h4 {
 }
 
 h1 {
-    color: orange;
+    color: blue;
 }
 
 footer img {
@@ -65,7 +65,7 @@ nav a {
 }
 
 nav a:hover {
-    color: orange;
+    color: blue;
 }
 
 .contact-form input{
@@ -87,5 +87,5 @@ button {
 }
 
 h3 {
-    color: orange;
+    color: blue;
 }
